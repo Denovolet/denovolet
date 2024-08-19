@@ -1,4 +1,9 @@
-Bem vindos, Me chamo Letícia Novais, mas pode me chamar de Nôva!
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF0056&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
 
 - 🔭 Trabalho atualmente como suporte tecnico
 - 📚 Iniciei Meus estudos em Infraestrutura em T.i e Analise de Desenvolvimento de sistemas, mas tenho obtido diversos conhecimentos em cursos sobre cibersegurança e demais, confira meus progresso no meu linkedin.". 
