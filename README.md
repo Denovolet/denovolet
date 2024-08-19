@@ -4,6 +4,7 @@
   </a>
 </div>
 
+##
 
 - 🔭 Trabalho atualmente como suporte tecnico
 - 📚 Iniciei Meus estudos em Infraestrutura em T.i e Analise de Desenvolvimento de sistemas, mas tenho obtido diversos conhecimentos em cursos sobre cibersegurança e demais, confira meus progresso no meu linkedin.". 
