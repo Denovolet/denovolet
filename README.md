@@ -6,8 +6,8 @@
 
 ##
 
-- 🔭 Trabalho atualmente como suporte tecnico
-- 📚 Iniciei Meus estudos em Infraestrutura em T.i e Analise de Desenvolvimento de sistemas, mas tenho obtido diversos conhecimentos em cursos sobre cibersegurança e demais, confira meus progresso no meu linkedin.". 
+- 🔭 Trabalho atualmente como Auxiliar de Infraestrutura de T.I
+- 📚 Iniciei Meus estudos em Analise de Desenvolvimento de sistemas, mas tenho obtido diversos conhecimentos em cursos sobre cibersegurança e demais, confira meus progresso no meu linkedin.". 
 - ⚡ Quero ser Desenvolvedora Front End
 - 💖 Curiosidades sobre mim: Iniciei meus estudos em Design gráfico e me formei pela Escola Britânica de Artes Criativas e Digitais tendo em meu repertorio outros cursos complementares, prestei serviços freelancers de Design e marketing, em 2020 entrei como suporte de redes fornecendo serviços ao banco Caixa e desde ai me apaixonei por esse universo, faço hoje minha transição de carreira.
 - 📧 Contate-me pelo e-mail: denovajobs@gmail.com
